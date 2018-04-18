@@ -1,5 +1,5 @@
-Clouldflare ddns update script
-==============================
+Cloudflare ddns update script
+=============================
 
 This script updates your cloudflare A records to your external ip address.
 
