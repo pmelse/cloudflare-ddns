@@ -16,4 +16,3 @@ Special Thanks
 - the dude who runs icanhazip.com, which we use to lookup external ip
   - https://major.io/icanhazip-com-faq/
 - the free tier of cloudflare, to which I am grateful.
-- the significant other, who tollerates me working on this
